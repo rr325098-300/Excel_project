@@ -41,6 +41,12 @@ The dataset contains sales records with the following fields:
   - Demand Category  
 - Prepared dataset for analysis  
 
+### 📌 Raw Dataset
+<img width="1919" height="1018" alt="Screenshot 2026-05-04 045317" src="https://github.com/user-attachments/assets/9131a7e5-2d36-4a4d-b7f0-295455280248" />
+
+### 📌 Cleaned Working Sheet
+<img width="1919" height="992" alt="Screenshot 2026-05-04 045359" src="https://github.com/user-attachments/assets/2cade414-445d-4ac3-9ffc-6e5892940b6d" />
+
 ---
 
 ## 📊 Pivot Table Analysis
@@ -63,6 +69,12 @@ Pivot Tables were used to summarize and analyze the dataset:
   - High Demand  
 - Analyzed product demand patterns  
 
+### 📊 Pivot Table View
+<img width="1919" height="989" alt="Screenshot 2026-05-04 045504" src="https://github.com/user-attachments/assets/daabd857-d8eb-4e11-8372-35cfd00fbf37" />
+
+### 📊 Pivot Charts
+<img width="1919" height="991" alt="Screenshot 2026-05-04 045432" src="https://github.com/user-attachments/assets/84d149b1-99e5-4d79-95a8-6f6878fc7221" />
+
 ---
 
 ## 📈 Dashboard
@@ -77,6 +89,9 @@ An interactive dashboard was created to visualize insights effectively.
   - Product  
   - Demand Category  
 
+### 📊 Dashboard View
+<img width="1919" height="1020" alt="Screenshot 2026-05-04 045526" src="https://github.com/user-attachments/assets/f232003d-1723-4b74-aedf-2b4e70713ec3" />
+
 ---
 
 ## 🔍 Key Insights
@@ -87,21 +102,16 @@ An interactive dashboard was created to visualize insights effectively.
 - Sales distribution varies across countries and product types  
 
 ---
-<img width="1919" height="1020" alt="Screenshot 2026-05-04 045526" src="https://github.com/user-attachments/assets/f232003d-1723-4b74-aedf-2b4e70713ec3" />
 
 ## 🛠 Tools Used
 
 - Microsoft Excel  
   - Pivot Tables  
-  - Charts (Bar, Pie, Line)  <img width="1919" height="991" alt="Screenshot 2026-05-04 045432" src="https://github.com/user-attachments/assets/84d149b1-99e5-4d79-95a8-6f6878fc7221" />
-
+  - Charts (Bar, Pie, Line)  
   - Slicers  
-  - Data Cleaning Techniques  <img width="1919" height="989" alt="Screenshot 2026-05-04 045504" src="https://github.com/user-attachments/assets/daabd857-d8eb-4e11-8372-35cfd00fbf37" />
-
+  - Data Cleaning Techniques  
   - Formulas and Functions  
 
----<img width="1919" height="992" alt="Screenshot 2026-05-04 045359" src="https://github.com/user-attachments/assets/2cade414-445d-4ac3-9ffc-6e5892940b6d" />
-
+---
 
 ## 📂 Project Structure
-<img width="1919" height="1018" alt="Screenshot 2026-05-04 045317" src="https://github.com/user-attachments/assets/9131a7e5-2d36-4a4d-b7f0-295455280248" />
